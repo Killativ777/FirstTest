@@ -1,0 +1,18 @@
+{
+    "main_url":"https://gstore.ua/?gclid=Cj0KCQiAnuGNBhCPARIsACbnLzpIm0BunNyor6hcWxx9U2nLgtBOfdnQK-V0vDatFLojDQgOK4Pne48aAncaEALw_wcB",
+    "login_btn":"a[class = 'userbar__button __active']",
+    "login_selector":"input[class='field j-focus'][tabindex='1']",
+    "login":"killativspidey@gmail.com",
+    "password_selector":"input[type='password'][tabindex='2']",
+    "password":"Gimno3000",
+    "waiter": 5000,
+    "login_click":"input[class='btn-input'][tabindex='3']",
+    "search_selector":"input[class='search__input']",
+    "search_input":"iphone",
+    "click_search":"button[class='search__button']",
+    "order_click_selector":"a[id='j-buy-button-widget-421']",
+    "name_selector":".cart-title>a",
+    "expected_name":"Apple iPhone 8 Plus 64Gb Gold (MQ8N2)",
+    "number_product_selector":".counter-field.j-quantity-p",
+    "expected_product_numbers":"1"
+}
